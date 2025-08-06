@@ -8,6 +8,11 @@
     "preview": "astro preview"
   },
   "dependencies": {
-    "astro": "^5.12.8"
+    "astro": "^5.12.8",
+    "sharp": "^0.34.3"
+  },
+  "devDependencies": {
+    "@unocss/reset": "^66.4.1",
+    "unocss": "^66.4.1"
   }
 }
